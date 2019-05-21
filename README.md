@@ -2,6 +2,10 @@
 
 A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars/Materialize
 
+# Deploy
+Deployed on Heroku! 
+Click [Here](https://intense-wildwood-65323.herokuapp.com/) To Demo! Eat that Burger!
+
 ## Description
 
 This application demonstrates a simple full stack application with a front end implemented with HTML/CSS and elements from the Materialize framework and the backend implemented with Node.js and Express. HTML templating is done with the help of Handlebars. 
