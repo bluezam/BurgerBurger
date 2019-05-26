@@ -16,4 +16,4 @@ The user may then eat any burger by clicking on it, which moves it into the adja
 
 ## Installation
 
-To run the application locally "npm install" to install the dependencies and "node server" to run
+To run the application locally "npm install" to install the dependencies. Run "mongod" and then run "node server" to run it locally.
